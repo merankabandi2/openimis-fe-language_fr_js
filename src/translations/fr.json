@@ -1685,7 +1685,20 @@
     "resultFrameworkIndicators.observation": "Observation",
     "DevelopmentIndicatorsSearcher.results": " ",
     "IntermediateIndicatorsSearcher.results": " ",
-    "menu.socialProtection.resultsFramework": "Cadre des résultats"
-    
-  }
-  
+    "menu.socialProtection.resultsFramework": "Cadre des résultats",
+    "me.agriculture_beneficiaries": "Agriculture",
+    "me.livestock_beneficiaries": "Elevage",
+    "me.livestock_goat_beneficiaries": "Elevage de chèvres",
+    "me.livestock_pig_beneficiaries": "Elevage de porcs",
+    "me.livestock_rabbit_beneficiaries": "Elevage de lapins",
+    "me.livestock_poultry_beneficiaries": "Elevage de volailles",
+    "me.livestock_cattle_beneficiaries": "Elevage de bovins",
+    "me.commerce_services_beneficiaries": "Commerce et services",
+    "location.name": "Nom",
+    "location.code": "Code",
+    "province.beneficiary.count.selected": "Bénéficiaires sélectionnés",
+    "province.beneficiary.count.active": "Bénéficiaires actifs",
+    "province.beneficiary.count.suspended": "Bénéficiaires suspendus",
+    "benefitPlanProvinces.searcherResultsTitle": "{totalCount} Provinces trouvées",
+    "benefitPlanProvinces.label": "Provinces"
+}
