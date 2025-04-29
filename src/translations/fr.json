@@ -1706,5 +1706,11 @@
     "benefitPlanProvinces.0.searcherResultsTitle": "{totalCount} Provinces trouvées",
     "benefitPlanProvinces.1.searcherResultsTitle": "{totalCount} Communes trouvées",
     "benefitPlanProvinces.2.searcherResultsTitle": "{totalCount} Collines trouvées",
-    "benefitPlanProvinces.label": "Provinces"
+    "benefitPlanProvinces.label": "Provinces",
+    "payroll.generateForLocation": "Générer les demandes de paiement pour la province",
+    "location.details": "Détails de la province",
+    "payroll.parameters": "Paramètres de la demande de paiement",
+    "payroll.paymentDate": "Date de paiement",
+    "payroll.generate": "Générer",
+    "location.beneficiaries": "Nombre de bénéficiaires"
 }
