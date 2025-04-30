@@ -2,6 +2,7 @@
     "appName": "MIS Merankabandi",
     "close": "Fermer",
     "ok": "Ok",
+    "add": "Ajouter",
     "cancel": "Annuler",
     "empty": " ",
     "FatalError.title": "Erreur Fatale",
@@ -1712,5 +1713,22 @@
     "payroll.parameters": "Paramètres de la demande de paiement",
     "payroll.paymentDate": "Date de paiement",
     "payroll.generate": "Générer",
-    "location.beneficiaries": "Nombre de bénéficiaires"
+    "location.beneficiaries": "Nombre de bénéficiaires",
+
+    "provincePaymentPoint.add": "Ajouter",
+    "provincePaymentPoint.noPaymentPoints": "Aucune agence de paiement assignée",
+    "provincePaymentPoint.fetchError": "Erreur lors du chargement des agences de paiement",
+    "provincePaymentPoint.allPlans": "Tous les plans",
+    "provincePaymentPoint.currentAssignments": "Affectations actuelles des agences de paiement",
+    
+    "provincePaymentPoint.dialog.add.title": "Ajouter une agence de paiement à la province",
+    "provincePaymentPoint.dialog.add.message": "Sélectionnez une agence de paiement à assigner à cette province. Vous pouvez éventuellement la restreindre à un plan spécifique.",
+    "provincePaymentPoint.dialog.paymentPoint": "Agence de paiement",
+    "provincePaymentPoint.dialog.paymentPlan": "Plan de paiement",
+    
+    "provincePaymentPoint.dialog.delete.title": "Supprimer l'affectation de l'agence de paiement",
+    "provincePaymentPoint.dialog.delete.message": "Êtes-vous sûr de vouloir supprimer l'agence de paiement '{paymentPointName}' de la province '{provinceName}'{planName, select, null {} other { pour le plan '{planName}'}}?",
+    "provincePaymentPoint.dialog.delete.error": "Une erreur s'est produite lors de la suppression de l'affectation de l'agence de paiement.",
+    
+    "provincePaymentPoint.mutation.add": "Ajout d'une agence de paiement à la province"
 }
